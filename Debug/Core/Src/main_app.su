@@ -1,0 +1,12 @@
+../Core/Src/main_app.c:29:6:setTimer	16	static
+../Core/Src/main_app.c:37:9:checkTimer	32	static
+../Core/Src/main_app.c:48:6:GoToSleep	8	static
+../Core/Src/main_app.c:57:6:controlLEDs	8	static
+../Core/Src/main_app.c:114:6:getBatteryValue	8	static
+../Core/Src/main_app.c:126:9:Button_Debounce	24	static
+../Core/Src/main_app.c:154:7:Button_press	24	static
+../Core/Src/main_app.c:183:6:changeColor	8	static
+../Core/Src/main_app.c:218:7:controlRGB	16	static
+../Core/Src/main_app.c:281:6:SOS_Mode	8	static
+../Core/Src/main_app.c:328:6:RGB_Modes	16	static
+../Core/Src/main_app.c:354:6:main_app	8	static

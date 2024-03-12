@@ -1,0 +1,12 @@
+main_app.c:29:6:setTimer	1
+main_app.c:37:9:checkTimer	1
+main_app.c:48:6:GoToSleep	1
+main_app.c:57:6:controlLEDs	9
+main_app.c:114:6:getBatteryValue	1
+main_app.c:126:9:Button_Debounce	4
+main_app.c:154:7:Button_press	7
+main_app.c:183:6:changeColor	15
+main_app.c:218:7:controlRGB	8
+main_app.c:281:6:SOS_Mode	2
+main_app.c:328:6:RGB_Modes	7
+main_app.c:354:6:main_app	17
